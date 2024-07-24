@@ -1,0 +1,21 @@
+HEADER
+Step 1
+*Grow logo in blue and green colour
+*GROW TEXT IN CAPS
+
+step 2
+*one search botton inside search botton text is what are you lokking for.
+In search button have filter also 1)ALL, 2)STOCK, 3)MF AND 4)F&O
+
+step 3
+*one login and register botton in green colour 
+
+step 4 
+*Inside login and register button one pop up page
+*Inside pop up page in left side text is Simple, Free Investing.
+*Right side text is Welcome to groww
+*Then on buttonof continue with google which directly retrive with google account or one more option of enter your email address.
+*In last continue button in green colour.  
+
+
+
